@@ -12,4 +12,4 @@ Esto ha sido a través de la historia una imagen en el discurso falocéntrico. E
 ## Tercer apartado
 
 Aquí una imagen del pulpogato
-<img src="mi_carpeta/imagen/github.jpg"> 
+<img src="carpeta/imagen/github.jpg"> 
